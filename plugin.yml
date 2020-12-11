@@ -1,0 +1,10 @@
+main: me.Hazer.MChatEmotes.Main
+name: MChatEmotes
+version: 1.0
+author: Hazer
+
+commands:
+  emotes:
+  isemote:
+  hovertest:
+  e:
